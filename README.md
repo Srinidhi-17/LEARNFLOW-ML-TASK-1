@@ -5,21 +5,22 @@ Project Description:
 The Facial Emotion Recognition project utilizes a Convolutional Neural Network (CNN) to detect and classify facial expressions in images. The implemented CNN is trained on a dataset containing various facial expressions, and the project includes training, evaluation, and a sample prediction on a single image.
 
 Technologies Used:
-Python
-PyTorch
-torchvision
-scikit-learn
-tqdm
-matplotlib
-seaborn
+Python,
+PyTorch,
+torchvision,
+scikit-learn,
+tqdm,
+matplotlib,
+seaborn,
 PIL (Python Imaging Library)
-Requirements
-Python 3.x
-PyTorch
-torchvision
-scikit-learn
-tqdm
-matplotlib
+
+Requirements:
+Python 3.x,
+PyTorch,
+torchvision,
+scikit-learn,
+tqdm,
+matplotlib,
 seaborn
 
 Installation Instructions:
