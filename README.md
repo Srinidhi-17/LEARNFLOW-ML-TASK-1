@@ -23,6 +23,9 @@ tqdm,
 matplotlib,
 seaborn
 
+Dataset information:
+Download the dataset from https://www.kaggle.com/datasets/msambare/fer2013
+
 Installation Instructions:
 Install dependencies: pip install -r requirements.txt
 Download the training and test datasets.
