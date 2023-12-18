@@ -1,7 +1,7 @@
-Project Title
+Project Title:
 Face Emotion Recognition using CNN
 
-Project Description
+Project Description:
 The Face Emotion Recognition project utilizes a Convolutional Neural Network (CNN) to detect and classify facial expressions in images. The implemented CNN is trained on a dataset containing various facial expressions, and the project includes training, evaluation, and a sample prediction on a single image.
 
 Technologies Used:
@@ -23,7 +23,6 @@ matplotlib
 seaborn
 
 Installation Instructions:
-
 Install dependencies: pip install -r requirements.txt
 Download the training and test datasets.
 Set up the project environment.
